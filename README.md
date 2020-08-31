@@ -1,2 +1,2 @@
 # texttopassword
-Python code to convert text to speech
+A simple Python code to convert text to speech
